@@ -35,7 +35,6 @@ $ NODE_ENV=production node index.js // for production environment
 'man' : 'Gives your information of all the powers you have',
 'help': 'Alias of "man" command',
 'list users' : 'List all the users of the system',
-'more log info': '',
 'menu' : 'View current menu',
 'recent orders' : 'View orders from last 24 hours',
 'view orders --hrs' : 'View all order in given hours or default 24 hours',
