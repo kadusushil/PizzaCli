@@ -1,6 +1,6 @@
-# Homework Assignment #3
+# Homework Assignment #4
 
-This project has codebase for assignment #3.
+This project has codebase for assignment #4.
 
 # How to run
 Before you run the project, we need to set environment variables for Mailgun and
